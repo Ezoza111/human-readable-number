@@ -33,13 +33,13 @@ module.exports = function toReadable (n) {
              switch (n) {
                  case 10: return "ten"; break;
                  case 11: return "eleven"; break;
-                 case 12: return "двенадцать"; break;
-                 case 13: return "tринадцать"; break;
+                 case 12: return "twelve"; break;
+                 case 13: return "thirteen"; break;
                  case 14: return "fourteen"; break;
                  case 15: return "fifteen"; break;
                  case 16: return "sixteen"; break;
                  case 17: return "seventeen"; break;
-                 case 18: return "eightteen"; break;
+                 case 18: return "eighteen"; break;
                  case 19: return "nineteen"; break;
                  }
          }
